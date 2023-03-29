@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(68,68,68);
+	color:white;
+	margin-left:50px;
+}
+h1{
+	font-size:50px;
+	text-align:center;
+}
+section img{
+	width:250px;
+	margin:10px;
+	border-radius:20px
+	
+	
+}
